@@ -1,0 +1,14 @@
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\obj\Debug\net8.0\Week8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\obj\Debug\net8.0\Week8.AssemblyInfoInputs.cache
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\obj\Debug\net8.0\Week8.AssemblyInfo.cs
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\obj\Debug\net8.0\Week8.csproj.CoreCompileInputs.cache
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\bin\Debug\net8.0\Week8.exe
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\bin\Debug\net8.0\Week8.deps.json
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\bin\Debug\net8.0\Week8.runtimeconfig.json
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\bin\Debug\net8.0\Week8.dll
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\bin\Debug\net8.0\Week8.pdb
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\obj\Debug\net8.0\Week8.dll
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\obj\Debug\net8.0\refint\Week8.dll
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\obj\Debug\net8.0\Week8.pdb
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\obj\Debug\net8.0\Week8.genruntimeconfig.cache
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week8\Week8\obj\Debug\net8.0\ref\Week8.dll
